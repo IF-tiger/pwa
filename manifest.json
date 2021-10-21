@@ -1,0 +1,13 @@
+
+{
+	"name": "测试PWA",
+	"start_url": "/index.html",
+	"display": "standalone",
+	"icons": [
+		{
+			"src": "https://cdn.jsdelivr.net/gh/IT-Tagore/images/data/未命名的设计.webp",
+			"sizes": "192x192",
+			"type": "image/webp"
+		}
+	]
+}
