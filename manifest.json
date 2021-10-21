@@ -1,7 +1,8 @@
 
 {
-	"name": "PWA",
-	"start_url": "www.iftiger.com",
+	"name": "泰戈尔App",
+	"short_name": "泰戈尔",
+	"start_url": "/?from=homescreen",
 	"display": "standalone",
 	"icons": [
 		{
