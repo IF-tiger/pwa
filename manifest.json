@@ -1,14 +1,19 @@
-
 {
-	"name": "泰戈尔App",
+	"name": "Tiger Web App",
 	"short_name": "泰戈尔",
 	"start_url": "/?from=homescreen",
-	"display": "standalone",
 	"icons": [
-		{
-			"src": "https://cdn.jsdelivr.net/gh/IT-Tagore/images/data/未命名的设计.webp",
-			"sizes": "192x192",
-			"type": "image/webp"
-		}
-	]
+	  {
+		"src": "/static/img/icons/android-chrome-192x192.png",
+		"sizes": "192x192",
+		"type": "image/png"
+	  }, {
+		"src": "/static/img/icons/android-chrome-512x512.png",
+		"sizes": "512x512",
+		"type": "image/png"
+	  }
+	],
+	"display": "standalone",
+	"background_color": "#ffffff",
+	"theme_color": "#1976d2"
 }
